@@ -1,0 +1,136 @@
+Introduction
+Hello World
+Folder Structure
+Components
+Functinoal Components
+Class Components
+Hooks Update
+JSX
+props
+state
+setState
+Destructuring props and state
+Event Handling
+Binding Event Handlers
+Methods as props
+Conditional Rendering
+List Rendering
+Lists and Keys
+Index as Key Anti-pattern
+Styling and CSS Basics
+Basics of Form Handling
+Component Lifecycle Methods
+Component Mounting Lifecycle Methods
+Component Updating Lifecycle Methods
+Fragments
+Pure Components
+memo
+Refs
+Refs with Class Components
+Forwarding Refs
+Portals
+Error Boundary
+Higher Order Components (Part 1)
+Higher Order Components (Part 2)
+Higher Order Components (Part 3)
+Render Props (Part 1)
+Render Props (Part 2)
+Context (Part 1)
+Context (Part 2)
+Context (Part 3)
+HTTP and React
+HTTP GET Request
+HTTP Post Request
+
+## React Hooks
+
+Introduction
+useState Hook
+useState with previous state
+useState with object
+useState with array
+useEffect Hook
+useEffect after render
+Conditionally run effects
+Run effects only once
+useEffect with cleanup
+useEffect with incorrect dependency
+Fetching data with useEffect
+Fetching data with useEffect (Part 1)
+Fetching data with useEffect (Part 2)
+Fetching data with useEffect (Part 3)
+useContext Hook (Part 1)
+useContext Hook (Part 2)
+useContext Hook (Part 3)
+useReducer Hook
+useReducer (simple state & action)
+useReducer (complex state & action)
+Multiple useReducers
+useReducer with useContext
+Fetching data with useReducer (Part 1)
+Fetching data with useReducer (Part 2)
+useState vs useReducer
+useCallback Hook
+useMemo Hook
+useRef Hook (Part 1)
+useRef Hook (Part 2)
+Custom Hooks
+useDocumentTitle Custom Hook
+useCounter Custom Hook
+useInput Custom Hook
+
+
+## Debugging React Apps
+
+How to Debug React Apps
+
+## React Render
+
+Introduction
+useState
+useReducer
+State Immutability
+Parent and Child
+Same Element Reference
+React memo
+Questions on Optimization
+Incorrect memo with children
+Incorrect memo with Impure Component
+Incorrect memo with props Reference
+useMemo and useCallback
+Context
+Context and Memo
+Context and Same Element Reference
+
+## React TypeScript
+
+Introduction
+Getting Started
+Typing Props
+Basic Props
+Advanced Props
+Event Props
+Style Props
+Prop types and Tips
+useState Hook
+useState Future Value
+useState Type Assertion
+useReducer Hook
+useReducer Strict Action
+useContext Hook
+useContext Future Value
+useRef Hook
+Class Component
+Component Prop
+Generic Props
+Restricting Props
+Template Literals and Exclude
+Wrapping HTML Elements
+Extracting a Component Prop Types
+Polymorphic Components
+Wrapping up
+
+## React Interview Questions
+
+## React Admin
+
